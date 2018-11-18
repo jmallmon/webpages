@@ -1,19 +1,25 @@
 /*
- *Name: [First Last]
- *UnityID: [unityID]
- *Date: [Date Completed]
- *Assignment: [Assignment Name]
- *Description: [description]
+ *Name: Joshua Allmon
+ *UnityID: jmallmon
+ *Date: 11/18/2018
+ *Assignment: Webpages GL
+ *Description: Guided Lab assignment, about me webpage
  */
 
 p {
-	property: value ;
+	font-family: Times:
+	font-size: 16px;
+	color: #FFFFFF;
 
 
   }
-
-
-
+.table-border {
+	border: 1px solid #FFFFFF;
+}
+#photo-resize {
+	max-width: 250px;
+	max-height: 300px;
+}
 
 #id {
 
