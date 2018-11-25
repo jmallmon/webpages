@@ -1,32 +1,22 @@
 /*
- *Name: [First Last]
- *UnityID: [unityID]
- *Date: [Date Completed]
- *Assignment: [Assignment Name]
- *Description: [description]
+ *Name: Joshua Allmon
+ *UnityID: jmallmon
+ *Date: 11/25/18
+ *Assignment: IA 5
+ *Description: HTML and Styling
  */
 
-p {
-	property: value ;
-
-
+.table-border {
+	border: 1px solid #000000;
   }
 
 
-
-
-#id {
-
-	property: value ;
-
+img{
+	max-width: 200px;
+	max-height: 250px;
+	border: 2px outset #00FF00;
 	}
 
-
-
-
-
-.class {
-
-	property: value ;
-       
+#mydata {
+	background-color:#FF8800;
        }
